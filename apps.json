@@ -1,13 +1,13 @@
 {
   "apps": [
     {
-      "name": "YouTube Premium",
+      "name": "Premium",
       "version": "18.45.50",
       "link": "https://drive.google.com/...",
       "desc": "Ad-free streaming with background play",
-      "category": "apps",
+      "category": "assets",
       "size": "85 MB",
-      "date": "20 Jun 2024",
+      "date": "20 Jun 2025",
       "new": true
     },
     {
