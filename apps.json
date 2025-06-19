@@ -1,35 +1,24 @@
 {
   "apps": [
     {
-      "name": "YouTube Premium Mod",
+      "name": "YouTube Premium",
       "version": "18.45.50",
       "link": "https://drive.google.com/...",
-      "desc": "Ad-free YouTube with background play",
-      "category": "apps"
+      "desc": "Ad-free streaming with background play",
+      "category": "apps",
+      "size": "85 MB",
+      "date": "20 Jun 2024",
+      "new": true
     },
     {
-      "name": "Spotify Premium",
-      "version": "8.8.96",
+      "name": "Cinematic LUTs Pack",
+      "version": "2.1",
       "link": "https://mediafire.com/...",
-      "desc": "Unlocked skips + extreme quality",
-      "category": "apps"
-    }
-  ]
-{
-  "apps": [
-    {
-      "name": "Premium Mod",
-      "version": "18.45.50",
-      "link": "https://drive.google.com/...",
-      "desc": "Ad-free YouTube with background play",
-      "category": "apps"
-    },
-    {
-      "name": "ify Premium",
-      "version": "8.8.96",
-      "link": "https://mediafire.com/...",
-      "desc": "Unlocked skips + extreme quality",
-      "category": "apps"
+      "desc": "50 color grading presets for Premiere Pro",
+      "category": "assets",
+      "size": "45 MB",
+      "date": "10 Jun 2024",
+      "new": false
     }
   ]
 }
