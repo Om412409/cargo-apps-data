@@ -1,23 +1,23 @@
 {
   "apps": [
     {
-      "name": "Premium",
+      "name": "YouTube Premium",
       "version": "18.45.50",
-      "link": "https://drive.google.com/...",
+      "link": "https://your-download-link.com",
+      "logo": "https://i.imgur.com/youtube-logo.png",
       "desc": "Ad-free streaming with background play",
-      "category": "assets",
       "size": "85 MB",
-      "date": "20 Jun 2025",
+      "date": "20 Jun 2024",
       "new": true
     },
     {
-      "name": "Cinematic LUTs Pack",
-      "version": "2.1",
-      "link": "https://mediafire.com/...",
-      "desc": "50 color grading presets for Premiere Pro",
-      "category": "assets",
-      "size": "45 MB",
-      "date": "10 Jun 2024",
+      "name": "Spotify Premium",
+      "version": "8.8.96",
+      "link": "https://your-download-link.com",
+      "logo": "https://i.imgur.com/spotify-logo.png",
+      "desc": "Unlocked skips + extreme quality",
+      "size": "56 MB",
+      "date": "18 Jun 2024",
       "new": false
     }
   ]
