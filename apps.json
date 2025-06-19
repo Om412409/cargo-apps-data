@@ -3,22 +3,12 @@
     {
       "name": "YouTube Premium",
       "version": "18.45.50",
-      "link": "https://your-download-link.com",
-      "logo": "https://i.imgur.com/youtube-logo.png",
-      "desc": "Ad-free streaming with background play",
+      "link": "https://your-link.com",
+      "desc": "Ad-free streaming",
+      "category": "app",
       "size": "85 MB",
       "date": "20 Jun 2024",
       "new": true
-    },
-    {
-      "name": "Spotify Premium",
-      "version": "8.8.96",
-      "link": "https://your-download-link.com",
-      "logo": "https://i.imgur.com/spotify-logo.png",
-      "desc": "Unlocked skips + extreme quality",
-      "size": "56 MB",
-      "date": "18 Jun 2024",
-      "new": false
     }
   ]
 }
